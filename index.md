@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Junmo's first CS193 Lab
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -17,13 +17,17 @@ Syntax highlighted code block
 
 - Bulleted
 - List
-
+# Favorite thing about CS193
+  1. Awesome TAs
+  2. Got to know Github
+  3. Smaller class
+  
 1. Numbered
 2. List
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
+[Link](url) and ![Image](src)Welcome to GitHub Pages
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
